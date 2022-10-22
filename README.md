@@ -1,10 +1,10 @@
 ## Income-Qualification
 
-DESCRIPTION
+#### DESCRIPTION
 
 Identify the level of income qualification needed for the families in Latin America.
 
-Problem Statement Scenario:
+#### Problem Statement Scenario:
 
 Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify.
 
@@ -15,7 +15,7 @@ While this is an improvement, accuracy remains a problem as the region’s popul
 
 The Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
 
-Following actions should be performed:
+#### Following actions should be performed:
 
 * Identify the output variable.
 * Understand the type of data.
