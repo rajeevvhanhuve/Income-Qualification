@@ -30,4 +30,4 @@ Following actions should be performed:
 
 Find the dataset [here](https://github.com/Simplilearn-Edu/Machine-Learning--Projects) 
 
-Find the data dictionary [here] 
+Find the data dictionary [here](https://github.com/rajeevvhanhuve/Income-Qualification/blob/main/1561982588_incomequalificationprojectdescription.pdf)
